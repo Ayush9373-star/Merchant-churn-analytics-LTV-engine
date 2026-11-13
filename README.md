@@ -1,4 +1,4 @@
-# FinTech Merchant Risk & Churn Engine
+# Merchant-churn-analytics-LTV-engine
 
 This is an end-to-end data system made to study, clean, and predict merchant payment habits across a massive raw dataset of **541,909 transactional logs**. The main dashboard screen gives management a clear, single-page view to find exactly which shopkeepers and businesses are stopping their payments, helping FinTech companies stop losing valuable revenue to competitors.
 
